@@ -10,7 +10,6 @@
 #
 ##############################################################################################################################
 
-from diffusers import OnnxStableDiffusionPipeline
 import time
 import math
 from PIL.PngImagePlugin import PngInfo
